@@ -1,0 +1,14 @@
+{
+  "name": "safe-jsonparser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zephyrpersonal/safe-jsonparser.git",
+  "author": "zephyr <zephyr.workmail@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
